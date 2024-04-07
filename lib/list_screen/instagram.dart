@@ -293,5 +293,8 @@ class PostModel {
   List<String> imageList;
   String imageName;
 
+
+// Changed by Alok Dubey
+
   PostModel({required this.imageList, required this.imageName});
 }
